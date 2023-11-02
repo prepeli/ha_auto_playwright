@@ -161,3 +161,4 @@ cython_debug/
 
 # Secrets - Credentials
 /utils/secret.py
+utils/secrets.py
